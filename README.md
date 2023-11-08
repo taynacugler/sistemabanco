@@ -1,9 +1,10 @@
-# sistemabanco
+# Sobre o Projeto
 Projeto usado para estudar Java e programação orientada a objetos. O objetivo foi criar um sistema de um banco com dois espaços, para os clientes e para os funcionários.
-Regras
-Todos (cliente, funcionário) são pessoas
-Todas as pessoas possuem conta no banco
-Toda pessoa pode sacar e depositar na própria conta
+
+# Regras
+- Todos (cliente, funcionário) são pessoas
+- Todas as pessoas possuem conta no banco
+- Toda pessoa pode sacar e depositar na própria conta
 Uma conta pode transferir para outra
 Toda conta tem um Id e Senha.
 Existem 3 tipos de funcionáiro: RH, ADM e Gerente.
